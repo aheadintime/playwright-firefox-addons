@@ -1,0 +1,2 @@
+geckordp==0.4.42
+playwright==1.29.0
